@@ -5,9 +5,9 @@
 		<groupId>com.anshul.expensive</groupId>
 		<artifactId>expensive</artifactId>
 		<version>0.0.1-SNAPSHOT</version>
-		<relativePath>../api/pom.xml</relativePath> <!-- lookup parent from repository -->
+		<relativePath>../</relativePath>
 	</parent>
-	<groupId>com.anshul</groupId>
+	<groupId>com.anshul.databasetool</groupId>
 	<artifactId>databasetool</artifactId>
 	<name>databasetool</name>
 	<description>A tool that will interact with database</description>
